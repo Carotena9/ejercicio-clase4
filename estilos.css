@@ -1,0 +1,27 @@
+body {
+    background-color: azure;
+}
+.azul{
+    background-color: rgba(0, 0, 255, 0.404);
+}
+.chico{
+    height: 60px;
+    margin: 5px;
+}
+.mediano{
+    height: 100px;
+    width: 50%;
+    margin: 5px;
+    float: left;
+}
+.grande{
+    height: 140px;
+    margin: 5px;
+}
+.margin-abajo{
+    margin-bottom: 5px;
+}
+.margin-derecho{
+    margin-right: 5px;
+
+}
